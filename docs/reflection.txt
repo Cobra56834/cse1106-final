@@ -1,0 +1,12 @@
+Diego Collado Rodriguez Reflection
+
+1. Understanding Github while also updating it, tested the test cases and worked with the raspberry pi
+
+2. Trying to remember how to use github and its comamnds.
+
+3. When we tried to run Main.c we had to debug to make sure the code could compile to be able to use it on the pi.
+
+4. Learning how to use Github and how it all functions the case of how it all works. 
+
+5. We could update status.txt file to keep the previous responses but for now it all works properly. 
+
