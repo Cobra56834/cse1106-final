@@ -1,0 +1,6 @@
+Connor Boudreaux Individual Reflection
+1. I wrote Main.C.
+2. We struggled to remember how to use git.
+3. When we first tried to compile Main.C, there were some errors we had to fix. We read each error message and found the mistakes until Main.C compiled.
+4. We needed what we were taught about github and circuits.
+5. We could make it actually read system memory usage and storage rather than taking user input, which would've been impractical just for this project. We could've also made the status.txt file append each status message rather than just replacing the last one.
